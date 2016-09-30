@@ -90,3 +90,6 @@ ENV/
 
 # sqlite
 .sqlite
+
+#mac junk
+.DS_STORE
